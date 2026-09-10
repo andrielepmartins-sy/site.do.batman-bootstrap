@@ -1,2 +1,2 @@
-# site.do.Batman-Bootstrap
+# Site do Batman-Bootstrap
 Site de rascunho e de estudo sobre Bootstrap.
